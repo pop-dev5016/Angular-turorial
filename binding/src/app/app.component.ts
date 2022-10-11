@@ -10,5 +10,8 @@ export class AppComponent {
   public name = "pavithran"
   public topic = "data binding"
   public image = "/assets/pop.png"
- 
+  onclick(){
+    console.log("u clicked man");
+    
+  }
 }
