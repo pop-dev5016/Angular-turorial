@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'first-app';
+  getpop(){
+    return "never give up"
+  }
+  num = 90000
 }
