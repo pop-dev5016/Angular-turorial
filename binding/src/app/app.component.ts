@@ -15,4 +15,7 @@ export class AppComponent {
     console.log("u clicked man");
     
   }
+  getData(){
+    
+  }
 }
